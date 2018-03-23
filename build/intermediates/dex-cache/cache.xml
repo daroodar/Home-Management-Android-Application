@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a8dc83527eaeb93b76e2ade18281f404fcf05a83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\a8076f9976d9e3b0c348c05716c2741977eb1c8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_a77619f0fa0d83772ea76024f5c26de856f92060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\4742cb420baf23cd4ea056a69f2058c58ded2512\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_383de8b7a6aefeaf16df3d6f77feef3db1848a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\5392d79811863f53ece75fff2912315231a81191\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_4707851f5d48b62c75850b5750109dcebf9193db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_5e764deb33aa949bf5fd75a9e628ca341efae10a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\a4ad46d9dc28677d1fd04422dec547a8ee208e7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_acfa64493390e869ffc48a902e20bc6709070d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\fe80fd5683c24216bccc4ba2488f47b347d96bfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_c702d6d5e856fd9255afed375dce5a738ac43737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\7280a6d689d49de375f388dadf0d3d5afb87766e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_81339e678324a6d7cbe6bdf5f8dd45925d05641d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\b4fc890c7a9f64ae4beeed1a537d6b2f40ae0542\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7287a4a3f8058478c8f876ec3d225f932d8abe81">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_732a2762a9e365413cbdfbd38526553e9034748e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\cfc8d3c8a40e3a700bc89db0bfb9860c6044c048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_8ac6a85ce942d8e2e8467752283a7f4b4b0cbdc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\28b3b207434369f56857f801f3edef2661d1be80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_69aa27db31e1d07e89f970836c739d4808a3d52c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16b4c343f1cfde6b1c2350b74de398ef5eff67e2">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb030b96acd4f42f115f1dc783c0f83498b57a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_a42f4a8e0f7d0bfbf1dd3b8a0bb42b361a161538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\fd25856e99ce6498a329f0ef766dd43a54592977\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_8752516ef3c317f0266988db94621124cba37e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\7006e08d05897a5acca7a0415d27708b05496d45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7b610cf02d6369f7c6cd522ca090b58806e54cc">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_5e7bfaeedd150a3a776d4d93fbf9e65ad1725bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\39201d8ac64fbecbe2e3ba3cd9a6b60b01bc69b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_7c03df42e823de1f688b03ea0aac8ce5b29e6315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osama\.android\build-cache\7ce1a623c6e20a6ecef0036d89c42a6d662e5db9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41e1b1b44d81b6efc6573afa7ec6cd669b78a80f">
+        <dex dex="D:\Projects\CNBP\CNBP_FINAL_ANDROID_CODE\CNBP_FINAL_ANDROID_CODE\HomeManagement\app\build\intermediates\pre-dexed\debug\classes_9e639f68140614be04fcdd147236c0078a6106b5.jar" />
+    </item>
+
+</items>
