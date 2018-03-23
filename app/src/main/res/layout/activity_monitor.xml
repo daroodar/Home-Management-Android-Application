@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ddd"
+    android:layout_height="match_parent"
+    tools:context="com.example.daroodar.homemanagement.MonitorActivity">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:layout_margin="30dp">
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/RealPowerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Real Power"
+        android:textSize="20dp"
+
+        android:layout_marginBottom="15dp"
+        android:layout_above="@+id/VrmsText"
+       />
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/HeadingText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parameters Monitor"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:textStyle="bold|italic"
+        android:layout_marginBottom="15dp"
+        android:layout_above="@+id/RealPowerText"
+        />
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/VrmsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vrms"
+        android:textSize="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_above="@+id/Aiwen"
+        />
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/Aiwen"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        android:textSize="0dp"
+        android:layout_centerInParent="true"
+        />
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/IrmsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Irms"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/Aiwen"
+       />
+
+
+    <TextView
+        android:id="@+id/PowerFactorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Power Factor"
+        android:textSize="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/IrmsText"
+
+        />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/monitor" />
+</RelativeLayout>
+</RelativeLayout>

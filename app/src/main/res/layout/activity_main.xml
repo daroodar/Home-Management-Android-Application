@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="25dp"
+    android:background="#ddd"
+    tools:context="com.example.daroodar.homemanagement.MainActivity">
+
+
+
+    <Button
+        android:id="@+id/monitorId"
+        android:background="#fff"
+        android:textColor="#777"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClickMonitor"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:layout_above="@+id/simpleSwitch1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/simpleSwitchaiwen"
+        android:text="Monitor" />
+
+
+    <Button
+        android:background="#fff"
+        android:textColor="#777"
+        android:id="@+id/monitorId3"
+        android:onClick="onCickTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+        android:layout_marginTop="140dp"
+        android:layout_toRightOf="@+id/simpleSwitchaiwen"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:text="Timer" />
+    <Switch
+        android:id="@+id/simpleSwitch1"
+        android:textColor="#444"
+        android:textStyle="italic"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/monitorId3"
+        android:layout_marginTop="120dp"
+        android:layout_toLeftOf="@+id/simpleSwitchaiwen"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="Switch 1 "
+        android:textOff="No"
+        android:textOn="Yes"/>
+    <Switch
+        android:id="@+id/simpleSwitch3"
+        android:textColor="#444"
+        android:textStyle="italic"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/simpleSwitch1"
+        android:layout_marginTop="20dp"
+        android:layout_alignLeft="@+id/simpleSwitch1"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="Switch 3 "
+        android:textOff="No"
+        android:textOn="Yes"/>
+    <Switch
+        android:id="@+id/simpleSwitchaiwen"
+        android:layout_width="0dp"
+        android:layout_below="@+id/monitorId3"
+        android:layout_marginTop="120dp"
+       android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:visibility="invisible"
+        android:text=""
+        android:textOff="No"
+        android:textOn="Yes"/>
+    <Switch
+        android:id="@+id/simpleSwitch2"
+        android:textStyle="italic"
+        android:textColor="#444"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/monitorId3"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/simpleSwitchaiwen"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="Switch 2 "
+        android:scrollbarSize="10dp"
+        android:textOff="No"
+        android:textOn="Yes"/>
+    <Switch
+        android:id="@+id/simpleSwitch4"
+        android:textColor="#444"
+        android:textStyle="italic"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/simpleSwitch2"
+        android:layout_marginTop="20dp"
+        android:layout_alignLeft="@+id/simpleSwitch2"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="Switch 4 "
+        android:textOff="No"
+        android:textOn="Yes"/>
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/house" />
+    <!-- text to be displayed whenever current state is checked-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ClockLayout"
+        android:visibility="invisible"
+        android:background="#ccc">
+
+    <TimePicker
+        android:id="@+id/timePicker1"
+        android:timePickerMode="clock"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Confirm"
+            android:onClick="onClickConfirmTime"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="16dp"
+            android:id="@+id/button" />
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
